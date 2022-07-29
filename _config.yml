@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hsin-Yuan Huang (Robert)"
-  avatar           : "me-2.jpg"
+  name             : "Bharathi Kannan"
+  avatar           : "bharathi.jpg"
   bio              : "A theorist wondering about information, quantum physics, and machine learning"
-  location         : "Pasadena, USA"
+  location         : "Pune, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "momohuang"
+  github           : "bharathijeeva"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "RobertHuangHY"
+  twitter          : "bharathi_kj29"
   vine             :
   weibo            :
   xing             :
